@@ -35,3 +35,21 @@
 .div16 { grid-area: 5 / 2 / 6 / 3; }
 .div17 { grid-area: 5 / 3 / 6 / 4; }
 .div18 { grid-area: 5 / 4 / 6 / 5; } 
+
+
+input {
+    background-color: #1b1b7e;
+    color: white;
+}
+
+button{
+    background-color: #1b1b7e;
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    font-size: 16px;
+    min-width: 21%;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+}
