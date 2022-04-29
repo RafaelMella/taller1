@@ -1,10 +1,19 @@
 
+.container-calculadora {
+    display: flex;
+    margin-left: 50px;
+    min-width: 400px;
+    min-height: 400px;
+    max-height: 600px;
+}
+
 .parent {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     grid-template-rows: repeat(5, 1fr);
     grid-column-gap: 0px;
     grid-row-gap: 0px;
+    background-color: rgb(227, 53, 53);
 } 
 
 
